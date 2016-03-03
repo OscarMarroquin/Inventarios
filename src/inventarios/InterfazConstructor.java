@@ -19,6 +19,7 @@ public static LinkedList contenedor = new LinkedList();
      */
     public InterfazConstructor() {
         initComponents();
+        this.setLocationRelativeTo(null);
     }
 
     /**

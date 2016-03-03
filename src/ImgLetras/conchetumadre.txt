@@ -1,0 +1,26 @@
+---------------------------------------------------------------------------------------------------------------------------
+
+****User___Name****
+
+GitHub
+
+OscarMarroquin             
+Oscar123.
+
+---------------------------------------------------------------------------------------------------------------------------
+
+****GIT BAHS****
+
+git add* = guardar cambios 
+git push = subir 
+git status= para ver si esta limpio
+git pull = para traer el codigo actualizado
+rm- Rf Inventarios/ =para borrar 
+git clone + liga de la pag= para clonar el archivo
+git commit=                                               
+git remote add + (nombre de la rama) + liga del link = para agregar una nueva rama (se hace solo una vez)               
+git fetch + (nombre de la rama) = para traer de nuevo la rama que desamoa abrir 
+
+--------------------------------------------  -------------------------------------------------------------------------------
+
+

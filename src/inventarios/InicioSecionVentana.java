@@ -21,6 +21,7 @@ public class InicioSecionVentana extends javax.swing.JFrame {
        //estamos llamando el objeto lista desde la clase cliente//
         this.lista =lista;
         initComponents();
+        this.setLocationRelativeTo(null);
     }
 
     /**
